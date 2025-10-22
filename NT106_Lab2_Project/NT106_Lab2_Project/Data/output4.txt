@@ -1,0 +1,29 @@
+[
+  {
+    "HoVaTen": "1",
+    "MSSV": 12345678,
+    "SoDienThoai": "0123456789",
+    "DMon1": 5,
+    "DMon2": 6,
+    "DMon3": 7,
+    "DTB": 6
+  },
+  {
+    "HoVaTen": "2",
+    "MSSV": 12345678,
+    "SoDienThoai": "0123456789",
+    "DMon1": 6,
+    "DMon2": 6,
+    "DMon3": 7,
+    "DTB": 6.33333349
+  },
+  {
+    "HoVaTen": "q2",
+    "MSSV": 12345678,
+    "SoDienThoai": "0123456789",
+    "DMon1": 4,
+    "DMon2": 4,
+    "DMon3": 4,
+    "DTB": 4
+  }
+]

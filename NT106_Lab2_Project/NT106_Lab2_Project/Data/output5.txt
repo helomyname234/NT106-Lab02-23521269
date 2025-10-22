@@ -1,0 +1,28 @@
+--- PHIM: Đào, phở và piano ---
+Số lượng vé bán ra: 2
+Số lượng vé tồn: 43
+Tỉ lệ vé bán ra: 4,44%
+Doanh thu: 56.250 VNĐ
+Xếp hạng doanh thu: 1
+----------------------------------------
+--- PHIM: Mai ---
+Số lượng vé bán ra: 0
+Số lượng vé tồn: 30
+Tỉ lệ vé bán ra: 0,00%
+Doanh thu: 0 VNĐ
+Xếp hạng doanh thu: 2
+----------------------------------------
+--- PHIM: Gặp lại chị bầu ---
+Số lượng vé bán ra: 0
+Số lượng vé tồn: 15
+Tỉ lệ vé bán ra: 0,00%
+Doanh thu: 0 VNĐ
+Xếp hạng doanh thu: 3
+----------------------------------------
+--- PHIM: Tarot ---
+Số lượng vé bán ra: 0
+Số lượng vé tồn: 15
+Tỉ lệ vé bán ra: 0,00%
+Doanh thu: 0 VNĐ
+Xếp hạng doanh thu: 4
+----------------------------------------
